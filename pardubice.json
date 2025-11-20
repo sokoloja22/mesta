@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Café Bajer",
+    "category": "cafe",
+    "lat": 50.038533,
+    "lon": 15.779643,
+    "address": "třída Míru 60, Pardubice"
+  },
+  {
+    "id": 2,
+    "name": "Restaurace Na Troskách",
+    "category": "restaurant",
+    "lat": 50.039891,
+    "lon": 15.773510,
+    "address": "Na Troskách 25, Pardubice"
+  },
+  {
+    "id": 3,
+    "name": "OC Afi Palace Pardubice",
+    "category": "shop",
+    "lat": 50.035850,
+    "lon": 15.776770,
+    "address": "Masarykovo náměstí 2799, Pardubice"
+  },
+  {
+    "id": 4,
+    "name": "Krajská knihovna",
+    "category": "culture",
+    "lat": 50.037830,
+    "lon": 15.778940,
+    "address": "Pernštýnské náměstí 77, Pardubice"
+  },
+  {
+    "id": 5,
+    "name": "Tyršovy sady",
+    "category": "park",
+    "lat": 50.033600,
+    "lon": 15.777400,
+    "address": "Tyršovy sady, Pardubice"
+  },
+  {
+    "id": 6,
+    "name": "Pardubický zámek",
+    "category": "culture",
+    "lat": 50.034931,
+    "lon": 15.780653,
+    "address": "Zámek 2, Pardubice"
+  }
+]
