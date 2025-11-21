@@ -1,6 +1,54 @@
 [
   {
     "id": 1,
+    "name": "Kavárna Podnebí",
+    "category": "cafe",
+    "lat": 49.192490,
+    "lon": 16.608020,
+    "address": "Veselá 37, Brno"
+  },
+  {
+    "id": 2,
+    "name": "Stopkova Plzeňská restaurace",
+    "category": "restaurant",
+    "lat": 49.194060,
+    "lon": 16.608590,
+    "address": "Česká 5, Brno"
+  },
+  {
+    "id": 3,
+    "name": "OC Galerie Vaňkovka",
+    "category": "shop",
+    "lat": 49.186610,
+    "lon": 16.613590,
+    "address": "Ve Vaňkovce 1, Brno"
+  },
+  {
+    "id": 4,
+    "name": "Moravská galerie",
+    "category": "culture",
+    "lat": 49.196440,
+    "lon": 16.602680,
+    "address": "Husova 18, Brno"
+  },
+  {
+    "id": 5,
+    "name": "Lužánky – park",
+    "category": "park",
+    "lat": 49.209090,
+    "lon": 16.606870,
+    "address": "Lidická 50, Brno"
+  },
+  {
+    "id": 6,
+    "name": "Hrad Špilberk",
+    "category": "culture",
+    "lat": 49.195090,
+    "lon": 16.599770,
+    "address": "Špilberk 1, Brno"
+  },
+  {
+    "id": 7,
     "name": "Kavárna U Zrna",
     "category": "cafe",
     "lat": 49.1951,
