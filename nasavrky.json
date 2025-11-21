@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Kavárna Na Radnici",
+    "category": "cafe",
+    "lat": 49.863040,
+    "lon": 15.800770,
+    "address": "Náměstí 1, Nasavrky"
+  },
+  {
+    "id": 2,
+    "name": "Restaurace U Kalicha",
+    "category": "restaurant",
+    "lat": 49.862420,
+    "lon": 15.801510,
+    "address": "Čs. armády 123, Nasavrky"
+  },
+  {
+    "id": 3,
+    "name": "Smíšené zboží Flop",
+    "category": "shop",
+    "lat": 49.863120,
+    "lon": 15.799480,
+    "address": "Náměstí 15, Nasavrky"
+  },
+  {
+    "id": 4,
+    "name": "Keltský skanzen Země Keltů",
+    "category": "culture",
+    "lat": 49.854840,
+    "lon": 15.804470,
+    "address": "Nasavrky 126"
+  },
+  {
+    "id": 5,
+    "name": "Zámecký park",
+    "category": "park",
+    "lat": 49.862680,
+    "lon": 15.799870,
+    "address": "Zámecká 24, Nasavrky"
+  },
+  {
+    "id": 6,
+    "name": "Zámek Nasavrky",
+    "category": "culture",
+    "lat": 49.862740,
+    "lon": 15.799650,
+    "address": "Zámecká 1, Nasavrky"
+  }
+]
