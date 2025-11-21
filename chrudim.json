@@ -55,7 +55,7 @@
     "lon": 15.791856317555448,
     "address": "Husova 9, 537 01 Chrudim III"
   },
-{
+  {
     "id": 8,
     "name": "Základní škola - Husovka",
     "category": "school",
@@ -63,7 +63,7 @@
     "lon": 15.792385500381915,
     "address": "Husova 9, 537 01 Chrudim III"
   },
-{
+  {
     "id": 9,
     "name": "Restaurace Cleopatra",
     "category": "restaurant",
@@ -71,7 +71,7 @@
     "lon": 15.798034241152445,
     "address": "U Stadionu 765, 537 03 Chrudim III"
   },
-{
+  {
     "id": 10,
     "name": "Western na Chrudimce restaurant",
     "category": "restaurant",
@@ -79,7 +79,7 @@
     "lon": 15.798466052315298,
     "address": "U Stadionu 767, 537 03 Chrudim III"
   },
-{
+  {
     "id": 11,
     "name": "Pracovní oděvy a obuv Táborský",
     "category": "shop",
@@ -87,7 +87,7 @@
     "lon": 15.79779013565738,
     "address": "U Stadionu 766, 537 03 Chrudim 3"
   },
-{
+  {
     "id": 12,
     "name": "Městská Knihovna Chrudim",
     "category": "culture",
@@ -95,7 +95,7 @@
     "lon": 15.797528100047591,
     "address": "U Stadionu 812, 537 03 Chrudim 3"
   },
-{
+  {
     "id": 13,
     "name": "",
     "category": "",
@@ -103,7 +103,7 @@
     "lon": ,
     "address": ""
   },
-{
+  {
     "id": 14,
     "name": "Základní škola, Chrudim, U Stadionu 756",
     "category": "school",
@@ -111,7 +111,7 @@
     "lon": 15.79919749129442,
     "address": "U Stadionu 756, 537 03 Chrudim 3"
   },
-{
+  {
     "id": 15,
     "name": "Stadion Emila Zátopka",
     "category": "culture",
@@ -119,7 +119,7 @@
     "lon": 15.799291541092526,
     "address": "V Průhonech 685, 537 03 Chrudim 3"
   },
-{
+  {
     "id": 16,
     "name": "Restaurace GÓÓL",
     "category": "restaurant",
@@ -127,7 +127,7 @@
     "lon": 15.799266246039563,
     "address": "Svatopluka Čecha 405, 537 01 Chrudim III"
   },
-{
+  {
     "id": 17,
     "name": "",
     "category": "",
@@ -135,7 +135,7 @@
     "lon": ,
     "address": ""
   },
-{
+  {
     "id": 18,
     "name": "Workout Park Chrudim",
     "category": "culture",
@@ -143,7 +143,7 @@
     "lon": 15.79869631400468,
     "address": "V Průhonech 685, 537 03 Chrudim III"
   },
-{
+  {
     "id": 19,
     "name": "Michalský park",
     "category": "park",
@@ -151,7 +151,7 @@
     "lon": 15.799258500318782,
     "address": "Tyršovo nám. 537 01, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 20,
     "name": "Královská cukrárna",
     "category": "café",
@@ -159,7 +159,7 @@
     "lon": 15.792766213410996,
     "address": "Široká 121, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 21,
     "name": "Kavárna U Čerta",
     "category": "café",
@@ -167,7 +167,7 @@
     "lon": 15.792481899259288,
     "address": "Široká 24, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 22,
     "name": "Pizza La Bella",
     "category": "restaurant",
@@ -175,7 +175,7 @@
     "lon": 15.792975426687637,
     "address": "Široká 123/537 01, 537 01 Chrudim I"
   },
-{
+  {
     "id": 23,
     "name": "Městská knihovna Chrudim",
     "category": "culture",
@@ -183,7 +183,7 @@
     "lon": 15.793912411388323,
     "address": "Filištínská 36, 537 01 Chrudim I"
   },
-{
+  {
     "id": 24,
     "name": "Čínská Restaurace Yi Pin Xiang",
     "category": "restaurant",
@@ -191,7 +191,7 @@
     "lon": 15.794936659291137,
     "address": "Filištínská 139, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 25,
     "name": "Kostel Nanebevzetí Panny Marie",
     "category": "culture",
@@ -199,7 +199,7 @@
     "lon": 15.795520681089622,
     "address": "Komenského, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 26,
     "name": "Turistické informační centrum Chrudim",
     "category": "culture",
@@ -207,7 +207,7 @@
     "lon": 15.7947354936137,
     "address": "Resselovo nám. 1/1, 537 01 Chrudim I"
   },
-{
+  {
     "id": 27,
     "name": "Kavárna Na Podsíni",
     "category": "café",
@@ -215,7 +215,7 @@
     "lon": 15.793914793614228,
     "address": "Štěpánkova 83, 537 01 Chrudim I"
   },
-{
+  {
     "id": 28,
     "name": "Pizzerie Pod Myší Dírou",
     "category": "restaurant",
@@ -223,7 +223,7 @@
     "lon": 15.792827511452435,
     "address": "Štěpánkova 90, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 29,
     "name": "Pizza Ardi Chrudim",
     "category": "restaurant",
@@ -231,7 +231,7 @@
     "lon": 15.792022570962166,
     "address": "Široká 1, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 30,
     "name": "Restaurace Růžek",
     "category": "restaurant",
@@ -239,7 +239,7 @@
     "lon": 15.791594758624294,
     "address": "Čs. partyzánů 4, 537 01 Chrudim IV"
   },
-{
+  {
     "id": 31,
     "name": "Hotel a Restaurace Alfa",
     "category": "restaurant",
@@ -247,7 +247,7 @@
     "lon": 15.791329088165242,
     "address": "Čs. partyzánů 24, 537 01 Chrudim IV"
   },
-{
+  {
     "id": 32,
     "name": "Ha Noi Bistro",
     "category": "restaurant",
@@ -255,7 +255,7 @@
     "lon": 15.790787281947912,
     "address": "Husova 246, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 33,
     "name": "Bufet Eva",
     "category": "restaurant",
@@ -263,7 +263,7 @@
     "lon": 15.787409391745644,
     "address": "Rooseveltova, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 34,
     "name": "POTRAVINY VY",
     "category": "shop",
@@ -271,7 +271,7 @@
     "lon": 15.787485614407707,
     "address": "Čs. Armády 804, 537 01 Chrudim III"
   },
-{
+  {
     "id": 35,
     "name": "Bar, který nemá jméno",
     "category": "culture",
@@ -279,7 +279,7 @@
     "lon": 15.791510246162991,
     "address": "Palackého tř., 537 01 Chrudim 1"
   },
-{
+  {
     "id": 36,
     "name": "BUFET Dukla Chrudim",
     "category": "restaurant",
@@ -287,7 +287,7 @@
     "lon": 15.791793127105192,
     "address": "Palackého tř. 764, 537 01 Chrudim III"
   },
-{
+  {
     "id": 37,
     "name": "Trafika Dája",
     "category": "shop",
@@ -295,7 +295,7 @@
     "lon": 15.792582146819262,
     "address": "Palackého tř., 537 01 Chrudim 1"
   },
-{
+  {
     "id": 38,
     "name": "Zimní stadion - HC Chrudim",
     "category": "culture",
@@ -303,7 +303,7 @@
     "lon": 15.803492252274857,
     "address": "V Průhonech 183, 537 04 Chrudim II"
   },
-{
+  {
     "id": 39,
     "name": "Skatepark Chrudim",
     "category": "culture",
@@ -311,7 +311,7 @@
     "lon": 15.804995745396365,
     "address": "Dr.Milady Horákové, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 40,
     "name": "Tesco Hypermarket Chrudim",
     "category": "shop",
@@ -319,7 +319,7 @@
     "lon": 15.802303574694305,
     "address": "Dr.Milady Horákové 10, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 41,
     "name": "Čínská restaurace",
     "category": "restaurant",
@@ -327,7 +327,7 @@
     "lon": 15.802199659041891,
     "address": "Dr.Milady Horákové 10, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 42,
     "name": "Chrudimská nemocnice",
     "category": "hospital",
@@ -335,7 +335,7 @@
     "lon": 15.807376958367554,
     "address": "Václavská 570, 537 01 Chrudim"
   },
-{
+  {
     "id": 43,
     "name": "Mr. Pizza",
     "category": "restaurant",
@@ -343,7 +343,7 @@
     "lon": 15.810553750684367,
     "address": "Slov. nár. povstání, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 44,
     "name": "Kaufland Chrudim",
     "category": "shop",
@@ -351,7 +351,7 @@
     "lon": 15.810644945789006,
     "address": "Slov. nár. povstání 1081, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 45,
     "name": "Albert",
     "category": "shop",
@@ -359,7 +359,7 @@
     "lon": 15.810311883675267,
     "address": "Slov. nár. povstání 1079, 537 01 Chrudim 5"
   },
-{
+  {
     "id": 46,
     "name": "Městská Knihovna Chrudim",
     "category": "culture",
@@ -367,7 +367,7 @@
     "lon": 15.808402821995973,
     "address": "Topolská 36, 537 01 Chrudim 1"
   },
-{
+  {
     "id": 47,
     "name": "Restaurace Bowling Stromovka",
     "category": "restaurant",
@@ -375,13 +375,12 @@
     "lon": 15.808684453936774,
     "address": "Družstevní 691, 537 05 Chrudim II"
   },
-{
+  {
     "id": 48,
     "name": "Park Střelnice a Ptačí ostrovy",
     "category": "park",
     "lat": 49.95546356077962, 
     "lon": 15.807445945651406,
     "address": "Unnamed Road, 537 05 Chrudim"
-  },
-
+  }
 ]
