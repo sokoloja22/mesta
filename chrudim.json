@@ -97,11 +97,11 @@
   },
   {
     "id": 13,
-    "name": "",
-    "category": "",
-    "lat": ,
-    "lon": ,
-    "address": ""
+    "name": "Restaurace U Kapličky",
+    "category": "restaurant",
+    "lat": 49.956561110365406, 
+    "lon": 15.809591930570575,
+    "address": "269, Malecká, 537 05 Chrudim"
   },
   {
     "id": 14,
@@ -129,11 +129,11 @@
   },
   {
     "id": 17,
-    "name": "",
-    "category": "",
-    "lat": ,
-    "lon": ,
-    "address": ""
+    "name": "Lidl",
+    "category": "shop",
+    "lat": 49.95511487940492, 15.797019978088517,
+    "lon": 15.797019978088517,
+    "address": "Tovární 1395, 537 01 Chrudim 1"
   },
   {
     "id": 18,
