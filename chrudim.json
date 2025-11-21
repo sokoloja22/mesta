@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "name": "Kavárna Chocco Caffé",
-    "category": "cafe",
-    "lat": 49.951470,
-    "lon": 15.795570,
-    "address": "Široká 29, Chrudim"
+    "name": "Koupaliště",
+    "category": "culture",
+    "lat": 49.94118305749104,
+    "lon": 15.802396578461503,
+    "address": "V Průhonech, 537 03 Chrudim 3"
   },
   {
     "id": 2,
-    "name": "Restaurace Na Palubě",
-    "category": "restaurant",
-    "lat": 49.950880,
-    "lon": 15.795080,
-    "address": "Poděbradova 909, Chrudim"
+    "name": "Penny Market",
+    "category": "shop",
+    "lat": 49.94396528583114,
+    "lon": 15.795834827023077,
+    "address": "Obce Ležáků 69, 537 01 Chrudim 1"
   },
   {
     "id": 3,
-    "name": "Obchodní centrum Běla",
-    "category": "shop",
-    "lat": 49.951230,
-    "lon": 15.801940,
-    "address": "Rooseveltova 335, Chrudim"
+    "name": "hostinec U Guláška",
+    "category": "restaurant",
+    "lat": 49.94153774614899,
+    "lon": 15.794872740483028,
+    "address": "Obce Ležáků 559, 537 01 Chrudim III"
   },
   {
     "id": 4,
-    "name": "Regionální muzeum Chrudim",
+    "name": "Základní umělecká škola Chrudim",
     "category": "culture",
-    "lat": 49.951890,
-    "lon": 15.795920,
-    "address": "Široká 86, Chrudim"
+    "lat": 49.94442275593551,
+    "lon": 15.794563476930646,
+    "address": "Obce Ležáků 92, 537 01 Chrudim III"
   },
   {
     "id": 5,
     "name": "Klášterní zahrady",
     "category": "park",
-    "lat": 49.949650,
-    "lon": 15.796970,
-    "address": "Štěpánkova 98, Chrudim"
+    "lat": 49.95212526536452,
+    "lon": 15.798050860285091,
+    "address": "Školní nám. 228, 537 01 Chrudim II"
   },
   {
     "id": 6,
-    "name": "Chrudimské divadlo",
+    "name": "Divadlo Karla Pippicha",
     "category": "culture",
-    "lat": 49.952310,
-    "lon": 15.794360,
-    "address": "Svatopluka Čecha 256, Chrudim"
+    "lat": 49.950680726929676,
+    "lon": 15.791870505841217,
+    "address": "Čs. partyzánů 6, 537 01 Chrudim IV"
   }
 ]
