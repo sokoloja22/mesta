@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Kavárna Chocco Caffé",
+    "category": "cafe",
+    "lat": 49.951470,
+    "lon": 15.795570,
+    "address": "Široká 29, Chrudim"
+  },
+  {
+    "id": 2,
+    "name": "Restaurace Na Palubě",
+    "category": "restaurant",
+    "lat": 49.950880,
+    "lon": 15.795080,
+    "address": "Poděbradova 909, Chrudim"
+  },
+  {
+    "id": 3,
+    "name": "Obchodní centrum Běla",
+    "category": "shop",
+    "lat": 49.951230,
+    "lon": 15.801940,
+    "address": "Rooseveltova 335, Chrudim"
+  },
+  {
+    "id": 4,
+    "name": "Regionální muzeum Chrudim",
+    "category": "culture",
+    "lat": 49.951890,
+    "lon": 15.795920,
+    "address": "Široká 86, Chrudim"
+  },
+  {
+    "id": 5,
+    "name": "Klášterní zahrady",
+    "category": "park",
+    "lat": 49.949650,
+    "lon": 15.796970,
+    "address": "Štěpánkova 98, Chrudim"
+  },
+  {
+    "id": 6,
+    "name": "Chrudimské divadlo",
+    "category": "culture",
+    "lat": 49.952310,
+    "lon": 15.794360,
+    "address": "Svatopluka Čecha 256, Chrudim"
+  }
+]
