@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Café Louvre",
+    "category": "cafe",
+    "lat": 50.081462,
+    "lon": 14.420746,
+    "address": "Národní 22, Praha 1"
+  },
+  {
+    "id": 2,
+    "name": "Lokál Dlouhá",
+    "category": "restaurant",
+    "lat": 50.090480,
+    "lon": 14.427160,
+    "address": "Dlouhá 33, Praha 1"
+  },
+  {
+    "id": 3,
+    "name": "Palladium",
+    "category": "shop",
+    "lat": 50.089710,
+    "lon": 14.428890,
+    "address": "náměstí Republiky 1, Praha 1"
+  },
+  {
+    "id": 4,
+    "name": "Národní muzeum",
+    "category": "culture",
+    "lat": 50.079229,
+    "lon": 14.430462,
+    "address": "Václavské náměstí 68, Praha 1"
+  },
+  {
+    "id": 5,
+    "name": "Stromovka",
+    "category": "park",
+    "lat": 50.108740,
+    "lon": 14.425510,
+    "address": "Královská obora, Praha 7"
+  },
+  {
+    "id": 6,
+    "name": "Karlův most",
+    "category": "culture",
+    "lat": 50.086450,
+    "lon": 14.411440,
+    "address": "Karlův most, Praha 1"
+  }
+]
